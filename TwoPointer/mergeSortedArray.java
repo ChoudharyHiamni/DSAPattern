@@ -27,3 +27,5 @@ public class mergeSortedArray {
         }
     }
 }
+
+// Time Complexity: O(m+n) where m and n are the lengths of the two arrays.
