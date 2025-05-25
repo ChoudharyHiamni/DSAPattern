@@ -21,3 +21,5 @@ public class dailyTemperature {
         System.out.println(Arrays.toString(answer));
     }
 }
+
+//time complexity: O(n)
